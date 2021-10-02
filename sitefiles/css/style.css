@@ -18,6 +18,13 @@ body{
     background-color: rgb(1,130,129);
 }
 
+.menuheader{
+    width: 100%;
+    height: 20px;
+    background-color: rgb(156, 156, 156);
+
+}
+
 h1, h2, h3, h4, h5, h6, p{
     font-family: "Myriad Pro";
     margin: 0;
