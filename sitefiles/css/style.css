@@ -47,7 +47,7 @@ body{
     margin: 0 10px;
     border: none;
     background-color: rgba(8, 8, 8, 0);
-    font-size: 12pt;
+    font-size: 1em;
     color: white;
     outline: none;
     transition: 0.3s;
