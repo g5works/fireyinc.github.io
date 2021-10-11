@@ -79,6 +79,36 @@ h1, h2, h3, h4, h5, h6, p{
     border-radius: 5px;
 }
 
+.thumbnailnoborder{
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+    height: 300px;
+    width: 400px;
+    margin: 10px 10px;
+    background-color: rgb(255, 255, 255);
+    transition: 0.3s;
+    font-family: "Myriad Pro";
+    margin: 0;
+    font-size: 12pt;
+}
+
+.thumbnailwide{
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+    height: 200px;
+    width: 1000px;
+    margin: 10px 10px;
+    background-color: rgb(255, 255, 255);
+    transition: 0.3s;
+    font-family: "Myriad Pro";
+    margin: 0;
+    font-size: 12pt;
+    border: solid;
+    border-radius: 5px;
+}
+
 .thumblink{
     border: solid;
     border-radius: 20px;
